@@ -13,16 +13,15 @@ Versão atual do Deno
 
 ### Rodando o projeto
 
-Para rodar o projeto entre na pasta /API e rode o seguinte comando no terminal:
+Para rodar o projeto entre na pasta **'/API'** e rode o seguinte comando no terminal:
 >deno run --allow-read --allow-net app.ts
 
 
 ### Api
 
-Só há um endpoint e um método implentado (GET/celulares)
+Só há um endpoint e um método implentados **(GET/celulares)**
 
-
-(Certifique o host e a porta no log do terminal)
+*(Certifique o host e a porta no log do terminal)*
 
 >http://localhost:8080/api/v1/celulares
 
