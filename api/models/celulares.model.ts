@@ -34,4 +34,7 @@ const getCelularesData = ()=>{
     return celurares
 }
 
-export {ICelular,getCelularesData}
+
+export  {
+    getCelularesData
+}
